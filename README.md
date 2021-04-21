@@ -1,2 +1,2 @@
-# Plinko-2-Scores
-With Scores.
+Plinko with score
+I am Shreyash.
